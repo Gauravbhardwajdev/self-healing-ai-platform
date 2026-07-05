@@ -1,0 +1,13 @@
+# Python caches
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env
+
+# Infrastructure artifacts
+.pulumi/
+*.tfstate
+*.tfstate.backup
+.terraform/
